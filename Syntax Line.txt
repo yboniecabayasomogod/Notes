@@ -3,6 +3,7 @@ CMD
 move
 start .
 copy
+dir
 
 REACT
 
