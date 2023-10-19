@@ -4,6 +4,11 @@ move
 start .
 copy
 dir
+clear
+cd.
+cd..
+cd...
+cls
 
 REACT
 
