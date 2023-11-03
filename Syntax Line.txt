@@ -12,9 +12,11 @@ cls
 
 REACT
 
+rafce
 code .
 npm start
 npm build
+npm install create-react-app --save
 
 Keyboard Shortcut
 Formatted the code - ALT+SHIFT+F
